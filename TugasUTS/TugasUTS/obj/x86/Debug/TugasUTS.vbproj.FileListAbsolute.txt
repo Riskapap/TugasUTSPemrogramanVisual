@@ -1,0 +1,18 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\TugasUTS\bin\Debug\TugasUTS.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\TugasUTS\bin\Debug\TugasUTS.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\TugasUTS\bin\Debug\TugasUTS.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\TugasUTS\obj\x86\Debug\TugasUTS.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\TugasUTS\obj\x86\Debug\TugasUTS.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\TugasUTS\obj\x86\Debug\TugasUTS.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\TugasUTS\obj\x86\Debug\TugasUTS.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\TugasUTS\obj\x86\Debug\TugasUTS.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\TugasUTS\obj\x86\Debug\TugasUTS.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\TugasUTS\TugasUTS\obj\x86\Debug\TugasUTS.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\TugasUTS\TugasUTS\obj\x86\Debug\TugasUTS.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\TugasUTS\TugasUTS\obj\x86\Debug\TugasUTS.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\TugasUTS\TugasUTS\bin\Debug\TugasUTS.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\TugasUTS\TugasUTS\bin\Debug\TugasUTS.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\TugasUTS\TugasUTS\bin\Debug\TugasUTS.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\TugasUTS\TugasUTS\obj\x86\Debug\TugasUTS.Form1.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\TugasUTS\TugasUTS\obj\x86\Debug\TugasUTS.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\TugasUTS\TugasUTS\obj\x86\Debug\TugasUTS.vbproj.GenerateResource.Cache
